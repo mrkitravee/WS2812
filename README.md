@@ -1,1 +1,3 @@
-# WS2812
+# WS2812 control RGB
+
+http://dekget-a.blogspot.com/
